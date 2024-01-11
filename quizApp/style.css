@@ -1,0 +1,59 @@
+.quiz-container {
+    width: 100%;
+    min-height: 100vh;
+    background-color: black;
+}
+
+h2 {
+    color: rgb(84, 255, 84);
+    padding: 1rem;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.choose button {
+    width: 100%;
+    padding: 0.8rem;
+    border: none;
+    outline: none;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+    border-radius: 5px;
+    text-align: left;
+    transition: 0.3s ease-in;
+}
+
+.choose {
+    padding: 1rem;
+}
+
+.choose button:hover {
+    background-color: white;
+    color: black;
+}
+
+h4 {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.reset {
+    margin-top: 1rem;
+}
+
+.show {
+    padding: 2rem;
+}
+
+.show  {
+    text-align: center;
+}

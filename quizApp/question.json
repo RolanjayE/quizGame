@@ -1,0 +1,39 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "choices": [
+        ["Paris", true],
+        ["Berlin", false],
+        ["Rome", false],
+        ["Madrid", false]
+      ]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "choices": [
+        ["Earth", false],
+        ["Mars", true],
+        ["Jupiter", false],
+        ["Saturn", false]
+      ]
+    },
+    {
+      "question": "What is the largest mammal?",
+      "choices": [
+        ["Elephant", false],
+        ["Blue Whale", true],
+        ["Giraffe", false],
+        ["Hippopotamus", false]
+      ]
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "choices": [
+        ["1905", false],
+        ["1912", true],
+        ["1920", false],
+        ["1931", false]
+      ]
+    }
+  ]
+  
